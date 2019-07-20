@@ -8,13 +8,11 @@ import static org.junit.Assert.*;
 
 public class ChessBoardUsingArrayTest {
 
-
-
     ChessBoardUsingArray cb;
 
     @Before
     public void setUpOnce()  {
-        cb = new ChessBoardUsingArray();
+        cb = new  ChessBoardUsingArray();
     }
 
     @After
@@ -23,7 +21,7 @@ public class ChessBoardUsingArrayTest {
 
     @Test
     public void check() {
-        String expected[][]={{"XX","YY","XX","YY","XX","YY","XX","YY"},{"XX","YY","XX","YY","XX","YY","XX","YY"},{"XX","YY","XX","YY","XX","YY","XX","YY"},{"XX","YY","XX","YY","XX","YY","XX","YY"},{"XX","YY","XX","YY","XX","YY","XX","YY"},{"XX","YY","XX","YY","XX","YY","XX","YY" ,"XX","YY","XX","XX" ,"YY","XX","YY","XX","YY","XX","YY","XX" ,"YY","XX","YY","XX"},{"XX","YY","XX","YY","XX","YY","XX","YY"},{"XX","YY","XX","YY","XX","YY","XX","YY"}};
+        String expected[][]={{"WW","BB","WW","BB","WW","BB","WW","BB"},{"BB","WW","BB","WW","BB","WW","BB","WW"},{"WW","BB","WW","BB","WW","BB","WW","BB"},{"BB","WW","BB","WW","BB","WW","BB","WW"},{"WW","BB","WW","BB","WW","BB","WW","BB"},{"BB","WW","BB","WW","BB","WW","BB","WW"},{"WW","BB","WW","BB","WW","BB","WW","BB"},{"BB","WW","BB","WW","BB","WW","BB","WW"}};
 
         String [][] actual = cb.display(8,8);
 
@@ -31,3 +29,5 @@ public class ChessBoardUsingArrayTest {
     }
 
 }
+
+

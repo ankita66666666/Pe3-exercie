@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9f06309-90b3-49f3-abef-c29cb88e836f" name="Default Changelist" comment="Done StudentMarks Programme">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/AdditionOfTwoMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pe_3 Exercise/com/stackroute/pe3/DateCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pe_3 Exercise/com/stackroute/pe3/DateCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Pe_3 Exercise/com/stackroute/pe3/DateCheckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Pe_3 Exercise/com/stackroute/pe3/DateCheckTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoardUsingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoardUsingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/pe3/ChessBoardUsingArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/pe3/ChessBoardUsingArrayTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pe3/VowelCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="-85">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="e#278#279#0" expanded="true" />
                 <element signature="e#325#326#0" expanded="true" />
@@ -114,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoardUsingArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="315">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -123,10 +121,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pe3/ChessBoardUsingArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="-100">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -159,8 +158,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/VowelChecker.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/AdditionOfTwoMatrix.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/pe3/VowelCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoardUsingArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/pe3/ChessBoardUsingArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoardUsingArray.java" />
       </list>
     </option>
   </component>
@@ -274,22 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ChessBoardUsingArrayTest">
-    <configuration name="AdditionOfTwoMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pe_3 Exercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe3" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe3.AdditionOfTwoMatrixTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ChessBoardUsingArrayTest.check">
     <configuration name="AdditionOfTwoMatrixTest.check" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pe_3 Exercise" />
       <extension name="coverage">
@@ -317,6 +301,22 @@
       <option name="PACKAGE_NAME" value="com.stackroute.pe3" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.pe3.ChessBoardUsingArrayTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessBoardUsingArrayTest.check" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pe_3 Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe3.ChessBoardUsingArrayTest" />
+      <option name="METHOD_NAME" value="check" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -354,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ChessBoardUsingArrayTest.check" />
         <item itemvalue="JUnit.ChessBoardUsingArrayTest" />
         <item itemvalue="JUnit.VowelCheckerTest.check" />
         <item itemvalue="JUnit.VowelCheckerTest" />
         <item itemvalue="JUnit.AdditionOfTwoMatrixTest.check" />
-        <item itemvalue="JUnit.AdditionOfTwoMatrixTest" />
       </list>
     </recent_temporary>
   </component>
@@ -398,9 +398,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DateCheckTest_startDate - 2019.07.19 at 14h 51m 07s.xml">
-      <configuration name="DateCheckTest.startDate" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DateCheckTest - 2019.07.19 at 14h 55m 56s.xml">
       <configuration name="DateCheckTest" configurationId="JUnit" />
     </history-entry>
@@ -427,6 +424,9 @@
     </history-entry>
     <history-entry file="VowelCheckerTest_check - 2019.07.20 at 13h 03m 24s.xml">
       <configuration name="VowelCheckerTest.check" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessBoardUsingArrayTest - 2019.07.20 at 13h 28m 42s.xml">
+      <configuration name="ChessBoardUsingArrayTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -550,8 +550,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pe3/VowelCheckerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="-85">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="e#278#279#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
@@ -561,17 +561,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoardUsingArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="315">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pe3/ChessBoardUsingArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="-100">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
           </folding>
         </state>
       </provider>

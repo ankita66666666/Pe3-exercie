@@ -5,13 +5,13 @@ public class ChessBoardUsingArray {
 
     public String[][] display(int rows, int cols) {
         {
-            String result[][] = new String[rows][cols];
+            String output[][] = new String[rows][cols];
             for (int j = 0; j < rows; j++) {
                 for (int k = 0; k < cols; k++) {
                     if (((k + j) % 2) == 0) {
-                        result[j][k] = "XX";
+                        output[j][k] = "WW";
                     } else {
-                        result[j][k] = "YY";
+                        output[j][k] = "BB";
                     }
 
                 }
@@ -19,7 +19,7 @@ public class ChessBoardUsingArray {
 
             }
 
-            return result;
+            return output;
         }
     }
 }
